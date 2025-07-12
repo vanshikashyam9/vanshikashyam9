@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 🎓 Currently Learning :  Software Engineering • Full-Stack Development • AWS Cloud  
-🧠 Interests          :  AI/ML • Human-Centered Design • Tech for Good  
+🧠 Interests          :  AI/ML • Human-Centered Design  
 🌟 Passion            :  Building intuitive, smooth, and user-friendly applications  
 🚀 Vision             :  Create technology that makes everyday life simpler and smarter  
 ☕ Fun Fact           :  I love exploring unique coffee blends while coding!
